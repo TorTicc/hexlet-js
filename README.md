@@ -1,1 +1,1 @@
-# hexlet-jsHello!
+# hexlet-js
